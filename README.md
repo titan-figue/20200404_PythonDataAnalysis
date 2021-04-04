@@ -1,2 +1,2 @@
-# PythonDataAnalysisByMicheleVallisneri
-Python Data Analysis by Michele Vallisneri
+# PythonDataAnalysis
+Python Data Analysis
